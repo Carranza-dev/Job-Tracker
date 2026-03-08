@@ -35,7 +35,10 @@ export default function Login({ onSwitch }) {
             <div className="auth-stat"><span>Free</span>Forever</div>
             <div className="auth-stat"><span>2026</span>Built this year</div>
             <div className="auth-stat"><span>React</span>+ Supabase</div>
-        </div>
+    </div>
+    <div className="auth-credit">
+  © 2025 Job Tracker. All rights reserved - <span>Carranza-dev.</span>
+</div>
       </div>
     </div>
 

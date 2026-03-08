@@ -147,6 +147,11 @@ export default function Dashboard({ user }) {
         )}
 
       </div>
+      <footer className="dash-footer">
+  © 2026 Job Tracker. All rights reserved - <span>Carranza-dev</span>
+</footer>
     </div>
+    
   )
+  
 }
